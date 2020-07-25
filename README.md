@@ -18,7 +18,6 @@
 
 
 [![Twitter: Muffin](https://img.shields.io/twitter/follow/navneetmuffin?style=social)](https://twitter.com/navneetmuffin)
-[![Linkedin:Navneet Raj](https://img.shields.io/badge/-navneetmuffin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navneetmuffin/)](https://www.linkedin.com/in/navneetmuffin/)
 
 <p><a href="https://www.navneetmuffin.in">🌐 Check out my website</a></p>
 <!--
