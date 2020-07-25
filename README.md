@@ -1,4 +1,4 @@
-### Hi there, I'm Muffin,
+### Hi there, I'm Muffin.
 wannabe reverse engineer...
 
 **Languages:**  
