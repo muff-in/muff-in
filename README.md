@@ -18,7 +18,7 @@
 
 
 
-## Social Media :mailbox_with_no_mail:
+## Social Media:
 
 [![Twitter: Muffin](https://img.shields.io/twitter/follow/navneetmuffin?style=social)](https://twitter.com/navneetmuffin)
 
