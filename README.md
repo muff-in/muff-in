@@ -30,7 +30,7 @@
 
 <p><a href="https://www.navneetmuffin.in">🌐 Check out my website</a></p>
 <!--
-**MianJawadAhmad/MianJawadAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**navneetmuffin/navneetmuffin ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
