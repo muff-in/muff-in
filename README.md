@@ -7,13 +7,12 @@
 <h1 align="center">Hi 👋, I'm müffin</h1>
 <h3 align="center">I am a self-proclaimed reverse engineer wannabe & a game-hacker.</h3>
 
-<p align="left"> <a href="https://twitter.com/navneetmuffin" target="blank"><img src="https://img.shields.io/twitter/follow/navneetmuffin?logo=twitter&style=for-the-badge" alt="navneetmuffin" /></a> </p>
 
 - 🌱 I’m currently learning **Game-Hacking & VM based obfuscation**
 
 - 📝 I regulary write articles on [https://www.navneetmuffin.in/](https://www.navneetmuffin.in/)
 
-- 📫 How to reach me **navneetmuffin@pm.me** / Discord: **muffin#0640**
+- 📫 How to reach me Mail: **navneetmuffin@pm.me** / Discord: **muffin#0640**
 - :round_pushpin:  Check out <a href="https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121">A curated list of Assembly Language / Reversing / Malware Analysis -resources
 
 <p align="left">
