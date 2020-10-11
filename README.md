@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on [https://www.navneetmuffin.in/](https://www.navneetmuffin.in/)
 
-- 📫 How to reach me **navneetmuffin@pm.me**
+- 📫 How to reach me **navneetmuffin@pm.me** / Discord: **muffin#0640**
 - :round_pushpin:  I have been contributing my best to the communities through my <a href="https://gist.github.com/navneetmuffin/ff678b1fda17e6188aa0462a99626121">A curated list of Assembly Language / Reversing / Malware Analysis -resources
 
 <p align="left">
