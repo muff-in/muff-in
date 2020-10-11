@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://www.nyan.cat/cats/original.gif" height="128">
+  <img src="https://cdn.discordapp.com/attachments/738939449185927249/764721980028092426/hacking.gif" height="128">
 </div>
 
 
