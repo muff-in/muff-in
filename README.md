@@ -27,4 +27,4 @@
 
 <h1>Featured Project</h1>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=navneetmuffin&repo=resources&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=navneetmuffin&gists=resources.md&theme=radical)
