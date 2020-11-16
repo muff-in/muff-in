@@ -14,13 +14,13 @@
 
 - 📫 How to reach me, Email: **0xmuffin@pm.me** / Discord: **muffin#0640**
 - :round_pushpin:  Check out <a href="https://gist.github.com/muff-in/ff678b1fda17e6188aa0462a99626121">A curated list of Assembly Language / Reversing / Malware Analysis -resources
-
+<p>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/navneetmuffin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="navneetmuffin" height="30" width="40" /></a>
 <a href="https://medium.com/@muff1n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@muff1n" height="30" width="40" /></a>
 
-
+</p>
 [![REGames Discord Server][badge-discord-img]][badge-discord-url]
 
 [badge-discord-img]: https://img.shields.io/discord/394999035540275222?label=REGames%20Server&logo=discord
