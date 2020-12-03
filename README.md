@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Game-Hacking & VM based obfuscation**
 
-- 📝 I regulary write articles on [https://muff-in.github.io/](https://muff-in.github.io/)
-
 - 📫 How to reach me, Email: **0xmuffin@pm.me** / Discord: **muffin#0640**
 - :round_pushpin:  Check out <a href="https://gist.github.com/muff-in/ff678b1fda17e6188aa0462a99626121">A curated list of Assembly Language / Reversing / Malware Analysis -resources
   
