@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm müffin</h1>
-<h3 align="center">I am a self-proclaimed reverse engineer wannabe & a game-hacker.</h3>
+<h3 align="center">I am a self-proclaimed reverse engineer wannabe.</h3>
 
 
 - 🌱 I’m currently learning **Game-Hacking & VM based obfuscation**
@@ -15,5 +15,5 @@
   
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/_muffin31" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="navneetmuffin" height="30" width="40" /></a>
+<a href="https://twitter.com/_muffin31" target="blank"><img align="center" src="http://i.imgur.com/tXSoThF.png" alt="navneetmuffin" height="30" width="40" /></a>
 <a href="https://medium.com/@muff1n" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@muff1n" height="30" width="40" /></a>
