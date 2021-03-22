@@ -7,9 +7,6 @@
 <h1 align="center">Hi 👋, I'm müffin</h1>
 <h3 align="center">I am a self-proclaimed reverse engineer wannabe.</h3>
 
-
-- 🌱 I’m currently learning **Game-Hacking & VM based obfuscation**
-
 - 📫 How to reach me, Email: **0xmuffin@pm.me** / Discord: **muffin#0640**
 - :round_pushpin:  Check out <a href="https://gist.github.com/muff-in/ff678b1fda17e6188aa0462a99626121">A curated list of Assembly Language / Reversing / Malware Analysis -resources
   
